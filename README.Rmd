@@ -1,0 +1,14 @@
+---
+title: "Small Boat Table Template Readme file"
+author: "Sarah Medoff"
+date: "2023-06-05"
+output: html_document
+---
+
+The purpose of this program is to automate the creation of data used in the Hawaiʻi Small Boat Survey 2021 Summary. This working directory consist of 14 different table templates that allow the user to pass in different parameters to create descriptive statistic tables based on the 14 different templates. Tables are referenced by table number.  To match the table number with the template name, refer to the "Table Documentation" located on the next sheet of this *README.xlsx* file. As a final deliverable, this R program will generate over 100 tables. 
+
+*Structure* 
+
+Each script located in this working directory will represent one table template. To create a new table based on one of the existing table templates, the end user should edit the corresponding xlsx file found in the folder *Data/2 Input Variable Parameters*. Final output will be saved in *Data/3 Output Final Data*. Refer to the *README.xlsx* documentation for more information. 
+
+https://www.fisheries.noaa.gov/science-blog/hawaii-small-boat-survey-2021-summary 
