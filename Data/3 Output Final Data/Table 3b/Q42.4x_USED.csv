@@ -1,0 +1,25 @@
+TYPE,Number of Respondents,Yes,No
+ALL,311,77.2,22.8
+By County,,,
+Oahu,110,80.0,20.0
+Hawaii,118,72.0,28.0
+Maui,49,85.7,14.3
+Kauai,33,72.7,27.3
+By Primary Fishing Motivation,,,
+Recreational Expense,95,73.7,26.3
+Part-Time Commercial,80,75.0,25.0
+Subsistence,47,89.4,10.6
+Full-Time Commercial,32,75.0,25.0
+Purely Recreational,24,87.5,12.5
+Cultural,4,50.0,50.0
+By Most Common Gear,,,
+Troll,168,76.8,23.2
+Bait for Pelagic,40,62.5,37.5
+HL for Deep7 deep,45,82.2,17.8
+HL for Deep7 shallow,27,77.8,22.2
+Spear,5,100.0,0.0
+By Sub-fishery,,,
+Pelagic,297,76.8,23.2
+Deep7 Bottom,184,76.6,23.4
+Non-Deep7 Bottom,186,78.0,22.0
+Coral Reef,52,86.5,13.5
