@@ -1,0 +1,29 @@
+Variable,Statistic,All Respondents,Bottomfish
+Boat Length,Number of Respondents,330,252
+,Mean,23.53030303030303,23.325396825396826
+,Standard Error,0.3350540046802733,0.37008798291783784
+,Median,22,22
+Boat Horsepower,Number of Respondents,329,252
+,Mean,249.51975683890578,236.90079365079364
+,Standard Error,14.574644110916097,14.297152320296519
+,Median,200,180
+Boat Age,Number of Respondents,320,243
+,Mean,26.0875,25.88477366255144
+,Standard Error,0.8316309348235464,0.9717183412649626
+,Median,26,26
+Current Boat Owner,Number of Respondents,324,247
+,Mean,12.885802469135802,13.048582995951417
+,Standard Error,0.6403829667517551,0.7253562008994037
+,Median,9,9
+Boat Purchase Price,Number of Respondents,307,233
+,Mean,53148.05211726384,52984.79399141631
+,Standard Error,6824.183040506041,8541.258163432045
+,Median,35000,35000
+Boat Current Market Value,Number of Respondents,309,237
+,Mean,62221.553398058255,63098.987341772154
+,Standard Error,6992.748640581529,8683.968840180381
+,Median,40000,40000
+Most Recent Years for major Vessel Improvement,Number of Respondents,227,178
+,Mean,4.079295154185022,4.134831460674158
+,Standard Error,0.2937424087366931,0.3442983569933482
+,Median,2,2
