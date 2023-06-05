@@ -1,0 +1,37 @@
+Variable,Statistic,All Respondents,Recreational expense,Part time commercial,Subsistence,Full time commercial,Purely recreational,Cultural
+Boat and trailer repair/maintenance/improvements,Number of Respondents, 326 , 102 , 90 , 43 , 32 , 24 , 4 
+,Mean," 2,337 "," 2,509 "," 2,177 "," 1,860 "," 3,805 "," 1,247 "," 3,550 "
+,Standard Error, 302 , 763 , 456 , 545 , 875 , 427 ," 2,191 "
+,Median, 973 , 850 ," 1,000 ", 500 ," 2,000 ", 350 ," 2,000 "
+Gear replacement/repair,Number of Respondents, 326 , 102 , 90 , 43 , 32 , 24 , 4 
+,Mean," 1,969 "," 1,458 "," 1,898 "," 1,415 "," 4,745 "," 1,760 "," 6,450 "
+,Standard Error, 188 , 198 , 352 , 306 , 986 , 991 ," 4,609 "
+,Median, 800 , 775 , 675 , 500 ," 2,500 ", 500 ," 2,750 "
+Loan payments,Number of Respondents, 326 , 102 , 90 , 43 , 32 , 24 , 4 
+,Mean, 718 , 470 ," 1,143 "," 1,183 ", 300 , -   ," 1,500 "
+,Standard Error, 124 , 143 , 303 , 498 , 170 , -   ," 1,500 "
+,Median, -   , -   , -   , -   , -   , -   , -   
+Boat insurance,Number of Respondents, 326 , 102 , 90 , 43 , 32 , 24 , 4 
+,Mean, 699 , 680 , 642 , 434 ," 1,214 ", 678 ," 1,250 "
+,Standard Error, 68 , 139 , 86 , 93 , 392 , 164 , 629 
+,Median, 300 , 148 , 400 , 100 , 479 , 452 ," 1,000 "
+Fees,Number of Respondents, 326 , 102 , 90 , 43 , 32 , 24 , 4 
+,Mean, 648 , 583 , 550 , 434 , 885 , 884 , 825 
+,Standard Error, 78 , 88 , 62 , 57 , 307 , 291 , 269 
+,Median, 300 , 250 , 400 , 300 , 450 , 300 , 750 
+Mooring fees,Number of Respondents, 326 , 102 , 90 , 43 , 32 , 24 , 4 
+,Mean, 629 , 868 , 303 , 451 , 867 ," 1,088 ", 600 
+,Standard Error, 105 , 253 , 133 , 213 , 341 , 415 , 600 
+,Median, -   , -   , -   , -   , -   , -   , -   
+Financial service,Number of Respondents, 326 , 102 , 90 , 43 , 32 , 24 , 4 
+,Mean, 49 , 21 , 88 , 58 , 48 , -   , 388 
+,Standard Error, 11 , 11 , 32 , 21 , 27 , -   , 226 
+,Median, -   , -   , -   , -   , -   , -   , 275 
+Other,Number of Respondents, 326 , 102 , 90 , 43 , 32 , 24 , 4 
+,Mean, 18 , 10 , 28 , 28 , 38 , -   , -   
+,Standard Error, 9 , 10 , 23 , 28 , 38 , -   , -   
+,Median, -   , -   , -   , -   , -   , -   , -   
+Annual fixed costs,Number of Respondents, 326 , 102 , 90 , 43 , 32 , 24 , 4 
+,Mean," 7,069 "," 6,598 "," 6,830 "," 5,862 "," 11,903 "," 5,656 "," 14,563 "
+,Standard Error, 515 ," 1,138 ", 846 ," 1,086 "," 1,666 "," 1,450 "," 8,007 "
+,Median," 3,775 "," 3,550 "," 3,650 "," 2,900 "," 9,450 "," 2,300 "," 9,225 "
